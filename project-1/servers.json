@@ -1,0 +1,6 @@
+[
+    {"name":"web01", "cpu":85},
+    {"name":"web02", "cpu":40},
+    {"name":"web03", "cpu":95}
+
+]
